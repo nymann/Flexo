@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Flexo">
+    <output-path>$PROJECT_DIR$/out/artifacts/Flexo</output-path>
+    <root id="archive" name="Flexo.jar">
+      <element id="module-output" name="Flexo" />
+      <element id="library" level="project" name="lib" />
+      <element id="directory" name="img" />
+    </root>
+  </artifact>
+</component>
